@@ -1,6 +1,6 @@
 # Standards Mapping
 
-This framework is original and practical, but deliberately aligned to the three references enterprises are measured against — so it's audit-defensible and easy to reconcile with a formal program.
+This framework is original and practical, but deliberately aligned to the three references enterprises are measured against; it's audit-defensible and easy to reconcile with a formal program.
 
 ## NIST AI RMF (Govern · Map · Measure · Manage)
 
